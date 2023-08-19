@@ -1,1 +1,2 @@
 0526. ✨ feat: add user authentication
+0973. 🔧 refactor: organize models into subfolders
