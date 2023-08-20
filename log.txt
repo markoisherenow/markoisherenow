@@ -1,3 +1,4 @@
 0526. ✨ feat: add user authentication
 0973. 🔧 refactor: organize models into subfolders
 0180. ✨ feat: add export to CSV option
+0503. ♻️ chore: rename env.example
