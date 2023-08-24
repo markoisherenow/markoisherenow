@@ -4,3 +4,4 @@
 0503. ♻️ chore: rename env.example
 0173. 🚀 perf: cache repeated calculations
 0424. ✨ feat: add user authentication
+0524. ♻️ chore: rename env.example
