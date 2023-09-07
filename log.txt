@@ -8,3 +8,4 @@
 0498. ✅ test: mock database connection in test suite
 0562. 🔧 refactor: clean up auth middleware
 0997. ✅ test: increase coverage on auth module
+0933. 📚 docs: clarify environment setup
