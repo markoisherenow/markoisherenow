@@ -42,3 +42,4 @@
 0056. ♻️ chore: rename env.example
 0630. 🚀 perf: lazy-load components
 0653. 🐛 fix: prevent crash on empty input
+0348. ✅ test: test user registration edge cases
