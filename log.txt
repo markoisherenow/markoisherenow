@@ -52,3 +52,4 @@
 0840. 🔧 refactor: refactor quiz grading logic
 0858. ♻️ chore: clean up unused files
 0181. ♻️ chore: add GitHub actions badge
+0262. 🎨 style: remove trailing whitespace
