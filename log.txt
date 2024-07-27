@@ -69,3 +69,4 @@
 0277. 🎨 style: standardize quote style
 0324. 📚 docs: document token refresh logic
 0939. 📚 docs: update README with setup steps
+0461. ✨ feat: add user authentication
