@@ -74,3 +74,4 @@
 0875. ✅ test: increase coverage on auth module
 0504. 📚 docs: document token refresh logic
 0254. 🚀 perf: reduce image load time
+0715. ✨ feat: create admin dashboard
