@@ -85,3 +85,4 @@
 0947. 📚 docs: write FAQ section
 0063. 🐛 fix: handle 500 error in quiz API
 0797. 📚 docs: add API usage examples
+0049. 🐛 fix: handle 500 error in quiz API
