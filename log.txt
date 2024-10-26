@@ -90,3 +90,4 @@
 0738. 🐛 fix: prevent crash on empty input
 0804. ♻️ chore: add GitHub actions badge
 0826. 📚 docs: clarify environment setup
+0948. 🐛 fix: fix broken CSS in mobile view
