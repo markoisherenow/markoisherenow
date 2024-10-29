@@ -92,3 +92,4 @@
 0826. 📚 docs: clarify environment setup
 0948. 🐛 fix: fix broken CSS in mobile view
 0079. 🐛 fix: correct typo in registration form
+0439. 🐛 fix: correct typo in registration form
