@@ -94,3 +94,4 @@
 0079. 🐛 fix: correct typo in registration form
 0439. 🐛 fix: correct typo in registration form
 0531. 🐛 fix: prevent crash on empty input
+0500. ✅ test: add integration test for /submit endpoint
