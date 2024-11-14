@@ -99,3 +99,4 @@
 0449. ✅ test: add unit test for quiz service
 0986. 📚 docs: document token refresh logic
 0362. 📚 docs: add API usage examples
+0010. ✨ feat: add user authentication
