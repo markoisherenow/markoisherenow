@@ -101,3 +101,4 @@
 0362. 📚 docs: add API usage examples
 0010. ✨ feat: add user authentication
 0720. ✨ feat: add export to CSV option
+0749. ✨ feat: support email verification
