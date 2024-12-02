@@ -102,3 +102,4 @@
 0010. ✨ feat: add user authentication
 0720. ✨ feat: add export to CSV option
 0749. ✨ feat: support email verification
+0739. 🎨 style: remove trailing whitespace
