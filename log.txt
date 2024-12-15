@@ -106,3 +106,4 @@
 0659. 📚 docs: add API usage examples
 0579. 📚 docs: clarify environment setup
 0623. 🎨 style: standardize quote style
+0339. 📚 docs: update README with setup steps
