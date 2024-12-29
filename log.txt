@@ -109,3 +109,4 @@
 0339. 📚 docs: update README with setup steps
 0125. ✅ test: add integration test for /submit endpoint
 0444. ✅ test: add unit test for quiz service
+0021. ✨ feat: support email verification
