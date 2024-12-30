@@ -110,3 +110,4 @@
 0125. ✅ test: add integration test for /submit endpoint
 0444. ✅ test: add unit test for quiz service
 0021. ✨ feat: support email verification
+0846. ✨ feat: implement quiz timer feature
