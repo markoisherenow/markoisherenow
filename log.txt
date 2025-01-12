@@ -115,3 +115,4 @@
 0654. ✨ feat: create admin dashboard
 0536. ✨ feat: add user authentication
 0859. ✨ feat: create admin dashboard
+0860. 🔧 refactor: organize models into subfolders
