@@ -122,3 +122,4 @@
 0719. 🎨 style: apply consistent indentation
 0999. 🔧 refactor: split large controller into smaller functions
 0852. ✨ feat: enable dark mode toggle
+0091. ✨ feat: add user authentication
