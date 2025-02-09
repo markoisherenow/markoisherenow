@@ -124,3 +124,4 @@
 0852. ✨ feat: enable dark mode toggle
 0091. ✨ feat: add user authentication
 0690. 🚀 perf: lazy-load components
+0964. ♻️ chore: clean up unused files
