@@ -128,3 +128,4 @@
 0830. 🎨 style: apply consistent indentation
 0682. ♻️ chore: rename env.example
 0261. 🔧 refactor: refactor quiz grading logic
+0068. 🐛 fix: fix null pointer exception on login
