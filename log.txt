@@ -134,3 +134,4 @@
 0519. 📚 docs: document token refresh logic
 0925. ✨ feat: add export to CSV option
 0760. 🐛 fix: resolve issue with date parsing
+0398. 🚀 perf: cache repeated calculations
