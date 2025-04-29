@@ -137,3 +137,4 @@
 0398. 🚀 perf: cache repeated calculations
 0153. ♻️ chore: rename env.example
 0644. 🎨 style: apply consistent indentation
+0880. 🐛 fix: fix broken CSS in mobile view
