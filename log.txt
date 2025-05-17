@@ -142,3 +142,4 @@
 0146. 🎨 style: apply consistent indentation
 0353. ♻️ chore: rename env.example
 0117. ✅ test: increase coverage on auth module
+0219. ✅ test: increase coverage on auth module
