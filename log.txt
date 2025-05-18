@@ -143,3 +143,4 @@
 0353. ♻️ chore: rename env.example
 0117. ✅ test: increase coverage on auth module
 0219. ✅ test: increase coverage on auth module
+0481. ✅ test: add unit test for quiz service
