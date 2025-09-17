@@ -177,3 +177,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0683. ✅ test: mock database connection in test suite
 0001. 🚀 perf: cache repeated calculations
+0217. 🚀 perf: reduce image load time
