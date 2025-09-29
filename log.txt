@@ -178,3 +178,4 @@
 0683. ✅ test: mock database connection in test suite
 0001. 🚀 perf: cache repeated calculations
 0217. 🚀 perf: reduce image load time
+0588. 🔧 refactor: organize models into subfolders
