@@ -179,3 +179,4 @@
 0001. 🚀 perf: cache repeated calculations
 0217. 🚀 perf: reduce image load time
 0588. 🔧 refactor: organize models into subfolders
+0906. 📚 docs: add API usage examples
