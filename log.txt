@@ -193,3 +193,4 @@
 0266. 🔧 refactor: remove redundant code blocks
 0281. ✨ feat: support email verification
 0087. ✨ feat: add export to CSV option
+0839. 🎨 style: apply consistent indentation
